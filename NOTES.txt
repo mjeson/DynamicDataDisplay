@@ -1,0 +1,6 @@
+To Run:
+1. Open sln\DynamicDataDisplay\DynamicDataDisplay.sln
+2. Set DynamicDataDisplay.Samples as Startup Project
+3. Click Start
+4. On WPF DynamicDtataDisplay Samples Gallery, left menu, Click Release 0.4.0 > Markers
+5. Click Stock markers tab
